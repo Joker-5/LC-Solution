@@ -1,2 +1,1 @@
-*.md linguist-language=Java 
-*.md linguist-language=JavaScript
+*.md linguist-language=Java JavaScript
