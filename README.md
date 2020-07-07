@@ -1,2 +1,2 @@
-# LC-Resolution
+# LC-Solution
 个人LC刷题记录，写题解也是为了回扣知识，有时间会把之前刷过的补上的
